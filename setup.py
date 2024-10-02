@@ -14,7 +14,7 @@ setup(
 
     url='https://exbio.wzw.tum.de/linex/',
     project_urls={  # Optional
-        'Source': 'https://gitlab.lrz.de/lipitum-projects/linex2_package',
+        'Source': 'https://github.com/lipitum/linex2_package',
         'Publication': "https://doi.org/10.1093/bib/bbac572"
     },
 
