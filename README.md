@@ -44,5 +44,5 @@ Nucleic Acids Res. (2021), DOI: [10.1093/nar/gkab1016](https://doi.org/10.1093/n
 and is published here: Jassal et al. "The reactome pathway knowledgebase".
 Nucleic Acids Res. (2020), DOI: [10.1093/nar/gkz1031](https://doi.org/10.1093/nar/gkz1031)
 
-[LINEX webtool](https://gitlab.lrz.de/lipitum-projects/linex) 
+[LINEX webtool](https://github.com/lipitum/linex) 
 published under the same license and written by the same authors.
